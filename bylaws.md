@@ -154,7 +154,7 @@ The Elders shall not receive any compensation for their services.
     potential Elders may assist with Elder ministries and further explore whether God
     may be calling them to this service. After this time, if the Elders and potential Elder(s)
     believe God has called them to this office, their name(s) shall be submitted to the
-    Covenant Partners for affirmation by consensus (as defined in Article X of
+    Covenant Partners for affirmation by consensus (as defined in Article VI of
     the LCC Constitution).
 
     At any time of the year, the Elders may prayerfully submit to the Church qualified
@@ -163,7 +163,7 @@ The Elders shall not receive any compensation for their services.
     why they doubt either the qualifications or the calling of the person(s) proposed. If
     the Elders find no sufficient cause for disqualification, they will ask the church to
     affirm by ballot the proposed Elder’s calling. If there is consensus (as defined in
-    Article X of the LCC Constitution) of those present at a duly convened meeting of
+    Article VI of the LCC Constitution) of those present at a duly convened meeting of
     the congregation to affirm the calling, the person will be installed as an Elder.
 
 9. <ins>Elders' Term of Service</ins>
@@ -177,7 +177,7 @@ The Elders shall not receive any compensation for their services.
     Elders. Leaving the Eldership does not preclude future service in the position,
     subject to the regular Elder selection process. Upon completion of a three-year
     term, an Elder’s name may be placed on the annual ballot for reaffirmation by
-    consensus (as defined in Article X of the LCC Constitution).
+    consensus (as defined in Article VI of the LCC Constitution).
 
 10. <ins>Dismissal of Elders</ins>
     Any person may at any time show cause in writing why an Elder should be
@@ -367,7 +367,7 @@ church.
            The Elders will decide, after investigation, if sufficient evidence exists
            to disqualify the nominee.
         g. At the Annual Meeting, the recommended Deacon(s) will be presented
-           to the church for affirmation by consensus (as defined in Article X of the
+           to the church for affirmation by consensus (as defined in Article VI of the
            LCC Constitution).
 
 4. <ins>Deacons' Term of Service</ins>
@@ -378,7 +378,7 @@ church.
     does not preclude future service subject to the regular Deacon selection process
     outlined above. Upon completion of a three-year term, a Deacon’s name shall be
     placed on the annual ballot for reaffirmation by the Covenant Partners by
-    consensus (as defined in Article X of the LCC Constitution).
+    consensus (as defined in Article VI of the LCC Constitution).
 
 5. <ins>Dismissal of Deacons</ins>
 
@@ -483,7 +483,7 @@ of Family Ministries, and Youth Pastor.
 1. <ins>Trustees</ins>
 
     The Administrative Board will present Trustees to the church for approval by
-    consensus (as defined in Article X of the LCC Constitution) at the Annual
+    consensus (as defined in Article VI of the LCC Constitution) at the Annual
     Meeting. Trustees will exercise oversight of church property. Each Trustee will be
     appointed for a three-year term of service. Trustees must be a Covenant Partner.
 
@@ -492,7 +492,7 @@ of Family Ministries, and Youth Pastor.
     The Global Ministries Team Leader will give leadership to the church in its efforts
     to advance the gospel through its missionary outreach. The Elders will present the
     Global Ministries Team Leader to the church for approval by consensus (as
-    defined in Article X of the LCC Constitution) at the Annual Meeting. The Global
+    defined in Article VI of the LCC Constitution) at the Annual Meeting. The Global
     Ministries Team Leader will be appointed for a three-year term of service. The
     GMT Leader must be a Covenant Partner.
 
@@ -504,7 +504,7 @@ of Family Ministries, and Youth Pastor.
 4. <ins>Treasurer</ins>
 
     The Administrative Board will present the Treasurer to the church for approval by
-    consensus (as defined in Article X of the LCC Constitution). The Treasurer will be
+    consensus (as defined in Article VI of the LCC Constitution). The Treasurer will be
     appointed for a three-year term of service. The Treasurer must be a Covenant
     Partner. This position may be compensated.
 
@@ -512,7 +512,7 @@ of Family Ministries, and Youth Pastor.
 
         a. The Elders are responsible for the process of hiring paid ministry staff. The
            Covenant Partners will affirm the candidate by consensus (as defined in
-           Article X of the LCC Constitution) at a duly-called meeting.
+           Article VI of the LCC Constitution) at a duly-called meeting.
         b. The Senior Pastor shall serve as an Elder.
         c. Paid ministry staff shall be under the oversight of the Elders.
         d. When just cause is evident, paid ministry staff may be dismissed at the
