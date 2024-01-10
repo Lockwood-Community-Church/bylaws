@@ -17,6 +17,7 @@
 ## ARTICLE 1 – COVENANT PARTNERS
 
 1. <ins>Covenant Partners</ins>
+
     At LCC, Covenant Partners shall be all people who officially covenant together
     and agree to fulfill the vision of LCC. The term "Covenant Partner" shall not be
     deemed to hold any ownership in LCC. Likewise, the term "Covenant Partner"
@@ -29,6 +30,7 @@
     instruction as far and for as long as they shall desire.
 
 2. <ins>Expectations</ins>
+
     Covenant Partners shall be expected to faithfully attend the regular meetings of
     the church, support its ministry with their prayers and resources and submit
     themselves in the Lord to its Elders’ oversight and direction. They shall maintain a
@@ -44,6 +46,7 @@
     Partner Meetings.
 
 3. <ins>Eligibility</ins>
+
     Individuals at LCC may become Covenant Partners if they satisfy the
     following criteria:
 
@@ -56,6 +59,7 @@
           Covenant Partner to the Elders.
 
 4. <ins>Appointment</ins>
+
     Eligible individuals must present their names to the Elders. After approval, their
     names will be added to the Covenant Partner roster. This Covenant Partnership
 
@@ -63,6 +67,7 @@
     church.
 
 5. <ins>Removal</ins>
+
     Covenant Partnership may be dissolved at the request of the Covenant Partner
     or at the discretion of the Elders for behaviors inconsistent with discipleship to
     Jesus.
